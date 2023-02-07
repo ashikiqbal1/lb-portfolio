@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+nav ul{
+    display: flex;
+    
+}
+nav ul li{
+    list-style: none;
+    margin-right: 30px;
+    
+
+}
+.text-title{
+    font-weight: 800;
+    font-size: 45px;
+    color: #181818;
+}
+.text-color{
+    color: #FD6E0A;
+}
