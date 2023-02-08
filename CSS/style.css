@@ -157,3 +157,47 @@ main{
     line-height: 28px;
     color: #757575;
 }
+/* resume section styles */
+.resume{
+    display: flex;
+    gap: 24px;
+    margin-top: 100px;
+}
+.resume-section{
+    margin-top: 130px;
+    
+}
+.resume-title{
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+}
+.resume-sub-title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+}
+.resume-small{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.resume-description{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #757575;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+hr{
+    border: 1px solid #D1D1D1;
+    margin-bottom: 30px;
+}
+.resume-button{
+    text-align: center;
+    margin-top: 50px;
+}
